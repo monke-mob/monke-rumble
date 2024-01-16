@@ -1,6 +1,6 @@
 <div align="center">
 
-![monke-rumble-logo](./assets/monkeactivitiestextv4.svg)
+![monke-rumble-logo](./assets/monkerumbletext.svg)
 
 <hr>
 
