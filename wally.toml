@@ -1,0 +1,13 @@
+[package]
+name = "monke-mob/monke-rumble"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Fluid = "lanred-dev/fluid@0.1.2"
+Fusion = "elttob/fusion@0.2.0"
+Knit = "sleitnick/knit@^1.5"
+Signal = "sleitnick/signal@1.5.0"
+Janitor = "howmanysmall/janitor@1.15.4"
+TableUtil = "sleitnick/table-util@1.2.1"

@@ -1,0 +1,7 @@
+/monke activites.rbxlx
+/*.rbxlx.lock
+/*.rbxl.lock
+Packages/*
+.VSCodeCounter
+sourcemap.json
+wally.lock
